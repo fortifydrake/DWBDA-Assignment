@@ -17,4 +17,4 @@ Take the sales data from anywhere, and write the spark program to calculate no. 
 
 # NOTE:
 1. transaction_data.csv, data used for assignment 1 and 3 is inside archive.zip 
-2. Data for assignment 2 is previous semeswter grade marks for all subjects like DAA, DBMS, PS&SP, Programming in Java, Introduction to Cyber Security, PBL, OOPS using JAVA Lab and DBMS lab
+2. Data for assignment 2 is previous semester grade marks for all subjects like DAA, DBMS, PS&SP, Programming in Java, Introduction to Cyber Security, PBL, OOPS using JAVA Lab and DBMS lab
